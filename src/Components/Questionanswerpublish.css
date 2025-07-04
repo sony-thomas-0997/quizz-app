@@ -1,0 +1,58 @@
+.allquestionstyle {
+  border: 5px solid green;
+  background-color: rgb(11, 122, 102);
+  padding: 10px 10px 15px 15px;
+  width: 50%;
+  border-radius: 15px;
+}
+.questiontext {
+  font-size: 16px;
+  color: #000000a6;
+
+  line-height: 1.5;
+}
+.correctanswertext {
+  font-size: 15px;
+  color: #ffffff9a;
+  font-family: monospace;
+}
+.choosedanswertext {
+  font-size: 15px;
+  color: #ffffff9a;
+  font-family: monospace;
+}
+.checkyouranswerhead {
+  color: #ccea25;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: courier;
+}
+.scoreboardposition {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.questiondisplayboxflex {
+  display: flex;
+  justify-content: center;
+}
+.correctanswercolor {
+  color: #24ff00a8;
+
+  font-family: monospace;
+}
+
+.wronganswercolor {
+  color: #ffff00a6;
+    font-family: monospace;
+}
+.colorofnosepqstn{
+  color:#910000 !important
+}
+.no_of_answred_qstn_txt{
+color: #ff00008a;
+    font-size: 17px;
+    text-transform: capitalize;
+    text-align: center;
+}

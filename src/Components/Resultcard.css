@@ -1,0 +1,75 @@
+.scoreboard{
+    background-color: #f4e075d4;
+    height: 150px;
+    width: 27%;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    align-content: center;
+    justify-content: center;
+    margin: 20px 0px 20px 0px;
+    font-family: cursive;
+    border: 9px solid skyblue;
+    border-radius: 17px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+   
+.youscoredtextbg{
+    background-color: crimson;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 5px 0px 4px 0px;
+
+}
+.youscored{
+    font-size: 22px;
+    padding-top: 5px;
+}
+.scorevalue{
+    font-size: 25px;
+}
+.scorevaluebg{
+    background-color: #3b3baee3;
+    padding: 5px 0px 5px 0px;
+}
+
+
+.outof{
+
+}
+.outofvalue{
+    font-size: 25px;
+}
+.allquestionstyle{
+    border: 5px solid green;
+    background-color: rgb(11, 122, 102);
+    padding: 10px 10px 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.questiontext{
+    font-size: 22px;
+    color: #fff;
+}
+.correctanswertext{
+    font-size: 17px;
+    color: #fff;
+
+}
+.choosedanswertext{
+    font-size: 17px;
+    color: #fff;
+}
+.checkyouranswerhead{
+    color: #fff;
+    text-align: center;
+}
+.scoreboardposition{
+     display: flex ;
+        align-content: center;
+        justify-content: center;
+      
+    }

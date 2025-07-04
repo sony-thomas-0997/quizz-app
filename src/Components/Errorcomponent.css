@@ -1,0 +1,17 @@
+.errordiv {
+  background-color: rgb(173, 216, 173);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+.errormsgtext {
+  color: #ff0000;
+
+  font-size: 28px;
+}
+.home_btn_style{
+    padding: 10px 40px 10px 40px;
+}

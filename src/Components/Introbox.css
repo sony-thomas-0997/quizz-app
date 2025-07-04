@@ -1,0 +1,35 @@
+.introboxoutline {
+    /* border: 2px solid rgb(184, 231, 109); */
+    background-color: rgb(66, 124, 232);
+    padding: 10px 20px 50px 0px;
+    width: 400px;
+    background-color: #313e4cd7;
+    border-radius: 20px;
+    border: 6px solid #4c6187;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.introboxheading {
+  color: yellow;
+  text-align: center;
+  font-family: cursive !important;
+  padding: 5px 0px 15px 0px;
+}
+.introboxinstruchead {
+  text-align: center;
+  color: rgb(254, 0, 0);
+  font-size: 30px !important;
+  font-family:cursive !important;
+}
+.listinstructions {
+  text-align: center;
+  font-size: 15px;
+  color:#000;
+  font-family:cursive !important;
+  
+}
+.istructionhighlight{
+  background-color:#d5d59cb0;
+  margin: 2px 2px 2px 15px;
+  border-radius: 18px;
+  padding: 5px 5px 15px 5px;
+}

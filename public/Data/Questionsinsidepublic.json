@@ -1,0 +1,46 @@
+  [
+    {
+      "id": 1,
+      "Difficulty": "Hard",
+      
+      "options": {
+        "optionA": "Answera",
+        "optionB": "AnswerB",
+        "optionC": "AnswerC",
+        "optionD": "AnswerD",
+        "Rightanswer": "Answerc"
+        }
+     
+      
+    },
+
+    {
+        "id": 2,
+        "Difficulty": "Easy",
+        
+        "options": {
+          "optionA": "Answera",
+          "optionB": "AnswerB",
+          "optionC": "AnswerC",
+          "optionD": "AnswerD",
+          "Rightanswer": "Answerd"
+          }
+       
+        
+      },
+      {
+        "id": 3,
+        "Difficulty": "Hard",
+        
+        "options": {
+          "optionA": "Answera",
+          "optionB": "AnswerB",
+          "optionC": "AnswerC",
+          "optionD": "AnswerD",
+          "Rightanswer": "Answerb"
+          }
+       
+        
+      }
+]
+    

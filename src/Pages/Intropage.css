@@ -1,0 +1,12 @@
+.introfullpagetheme{
+  /*  background-color: rgb(16, 207, 207) !important;*/
+  /*background-image: url('intro_page_images/3.jpg');*/
+  background-image: url('intro_page_images/6.jpg');
+  background-repeat: no-repeat;
+  background-size: cover
+  ;
+    height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

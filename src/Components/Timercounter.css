@@ -1,0 +1,50 @@
+.counterbox {
+  width: 100%;
+
+  padding: 0px 0px 25px 0px;
+  font-size: 50px;
+
+  color: #00ff77;
+  text-align: center;
+}
+.minute {
+  background-color: #000000a8;
+  padding: 5px 3px 5px 15px;
+  border-bottom: 6px solid #000;
+}
+.second {
+  background-color: #000000a8;
+  padding: 5px 15px 5px 3px;
+  border-bottom: 6px solid #000;
+}
+.minutesecondseparator {
+  background-color: #000000a8;
+  padding: 5px 3px 5px 3px;
+  border-bottom: 6px solid #000;
+  position: relative;
+  bottom: 4px;
+  padding-bottom: 9px;
+}
+.remainingtimetext {
+  text-align: center;
+  background-color: black;
+  font-size: 30px;
+  margin: px 0px 10px 0px;
+  font-size: 19px;
+  color: #ff0404;
+  padding: 5px 15px 5px 15px;
+}
+.timersepartardotblinkblack {
+  color: #0000001a;
+  visibility: hidden;
+}
+.timersepartardotblinkwhite {
+  color: #fff;
+}
+.second-warning {
+  color: yellow !important;
+}
+.second-danger {
+  color: red;
+  scale: 2 0.5;
+}
